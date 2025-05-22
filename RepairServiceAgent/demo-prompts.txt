@@ -1,0 +1,7 @@
+List all my repairs.
+
+Create a new repair titled "rear camera issue" and assign it to me.
+
+List all my repairs.
+
+Classify repair items based on title into three distinct categories: Routine Maintenance, Critical, and Low Priority. Then, generate a pie chart displaying the percentage representation of each category. Use unique colours for each group and incorporate tooltips to show the precise values for each segment.
